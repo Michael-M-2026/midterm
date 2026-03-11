@@ -1,8 +1,20 @@
 /* styles.css */
+
+/* First Google Font */
 .story-script-regular {
   font-family: "Story Script", sans-serif;
   font-weight: 400;
   font-style: normal;
+
+/* Second Google Font */
+.google-sans-<uniquifier> {
+  font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
   
 }
 
