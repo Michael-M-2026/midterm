@@ -1,2 +1,20 @@
 /* styles.css */
+.story-script-regular {
+  font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.resume {
+  text-align: center;
+}
 
