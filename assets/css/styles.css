@@ -64,8 +64,12 @@
 h1 {
     font-family: 'Story Script', sans-serif;
     font-size: 40px;
+   font-color: white;
 }
 
+p1 {
+  font-color: white;
+}
 
 .resume {
   text-align: center;
