@@ -71,6 +71,23 @@ h1 {
    font-color: white;
 }
 
+ol {
+  .lato-light-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  font-color: green;
+}
+
+ul {
+  ol {
+  .lato-light-italic {
+  font-family: "Lato", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+  font-color: green;
+}
+  
 p1 {
   font-color: white;
 }
