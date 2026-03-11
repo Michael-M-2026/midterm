@@ -61,6 +61,10 @@
 
 }
 
+body {
+  background-color: lightgray
+}
+
 h1 {
     font-family: 'Story Script', sans-serif;
     font-size: 40px;
