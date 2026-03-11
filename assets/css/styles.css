@@ -85,8 +85,10 @@ ul {
   font-color: green;
 }
   
-p1 {
-  font-color: white;
+p {
+  font-color: black;
+  font-family: 'Times New Roman', Times, serif;
+  font-color: green;
 }
 
 .resume {
